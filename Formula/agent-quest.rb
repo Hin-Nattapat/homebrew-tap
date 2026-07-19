@@ -1,8 +1,8 @@
 class AgentQuest < Formula
   desc "Gamify your AI coding agent usage into an RPG"
   homepage "https://github.com/Hin-Nattapat/agent-quest"
-  url "https://github.com/Hin-Nattapat/agent-quest/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "169971d6636802ba6922961420a76c09c2fdefa6d9ffd9ea3ac2289c15bc8113"
+  url "https://github.com/Hin-Nattapat/agent-quest/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "1ccfe64a4aab68594d8f77e687d366d115a9431ade895f1c1f3c26797671b6e1"
   license "MIT"
 
   depends_on "bun"
